@@ -1,1 +1,1 @@
-# SDN testbed with Deep reinforcement algorithms
+# SDN testbed with Deep reinforcement learning algorithms
